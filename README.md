@@ -1,6 +1,9 @@
-# Hello_World
+# Project Title
 
-Hello!
+* Brett Erwin Hello World*
 
-My name is Brett Erwin and I am a junior at the University of Iowa.
-I am double majoring in Finance and BAIS, and I am excited to see the opportunities each of these fields will provide me.
+# Description
+** Learn basics of GitHub. Created my first repository and explored different fonts.**
+
+# Additional Documentation
+No additional documentation to this point. More will be added later if necessary.
